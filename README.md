@@ -6,4 +6,4 @@ This website is using HTML, CSS, animate CSS, CSS grid and it's responsive. Enjo
 
 Preview:
 
-![Image description]('https://github.com/fmunives/Survey-Form/blob/master/previuw.PNG?raw=true')
+![Image description](https://github.com/fmunives/Survey-Form/blob/master/previuw.PNG?raw=true)
